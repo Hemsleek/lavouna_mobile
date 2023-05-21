@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from "react-native";
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Lavouna</Text>
+      <Text>Lavouna clean</Text>
       <StatusBar style="auto" />
     </View>
   );
